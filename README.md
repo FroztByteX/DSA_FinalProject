@@ -30,26 +30,14 @@ The project addresses two problems: slowdowns when the amount of library data gr
 | Merge sort | Sorting books, records and transactions |
 | Binary search tree | Books ordered by title |
 
-<<<<<<< HEAD
-All of these are implemented from scratch in the `circa.structures` package.
-
-=======
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 ## Team Members
 
 | Name | Role |
 |---|---|
-<<<<<<< HEAD
-| Red Liegh Gonzales | Developer |
-| Peter Padillo | Project Lead, Developer |
-| Carenne Ryssa Wong | Documentation, UI Developer |
-| Isabel Victoria Francisco | UI/ UX Developer |
-=======
 | [Red Liegh Gonzales] | [Developer] |
 | [Peter Padillo] | [Project Lead, Developer] |
 | [Carenne Ryssa Wong] | [UI Developer] |
 | [Isabel Victoria Francisco] | [UI Developer] |
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 
 ## Requirements
 
@@ -95,13 +83,6 @@ New students can also register from the login screen.
 
 On the first run the program creates a `data/` folder next to where it is started, filled with sample books and accounts. It contains `users.txt`, `books.txt`, `borrow_records.txt` and `transactions.txt`, and is updated after every change. To reset the system to the sample data, close the program and delete the `data/` folder. The undo history only lasts for the current session.
 
-<<<<<<< HEAD
-### Logo
-
-To show the CIRCA logo in the login screen and the window headers, save it as `images/logo.png` in the project folder (next to `src`) and run the program from that folder. If the file is missing, a placeholder box is shown instead.
-
-=======
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 ## Project Structure
 
 ```
@@ -114,17 +95,10 @@ src/circa/
   model/        Book, Student, Librarian, BorrowRecord, Transaction
   undo/         Undoable actions and the undo manager
   structures/   Linked lists, queue, stack, hash table, BST, merge sort
-<<<<<<< HEAD
-images/         Put the logo here as logo.png
-=======
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 uml/            UML class diagram (PNG, PDF, SVG)
 ```
 
 ## UML Diagram
 
 The class diagram is in the `uml` folder: `class-diagram.png` (also available as `.pdf` and `.svg`).
-<<<<<<< HEAD
-=======
 "# DSA_FinalProject" 
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca

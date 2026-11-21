@@ -2,22 +2,17 @@ package circa.view;
 
 import java.awt.Color;
 import java.awt.Dimension;
-<<<<<<< HEAD
 import java.awt.Image;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
-=======
-import javax.swing.BorderFactory;
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 import javax.swing.table.DefaultTableModel;
 
 public final class Widgets {
-<<<<<<< HEAD
     private static final String[] LOGO_FOLDERS = {"images", "../images", "CIRCA/images"};
     private static final String[] LOGO_NAMES = {"logo.png", "logo.jpg", "logo.jpeg"};
     private static boolean warned;
@@ -82,15 +77,6 @@ public final class Widgets {
         JLabel label = new JLabel("[ image ]", SwingConstants.CENTER);
         label.setBorder(BorderFactory.createLineBorder(Color.BLACK));
         fixSize(label, width, height);
-=======
-    private Widgets() {
-    }
-
-    public static JLabel imagePlaceholder(int width, int height) {
-        JLabel label = new JLabel("[ image ]", SwingConstants.CENTER);
-        label.setBorder(BorderFactory.createLineBorder(Color.BLACK));
-        label.setPreferredSize(new Dimension(width, height));
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
         return label;
     }
 
@@ -102,8 +88,4 @@ public final class Widgets {
             }
         };
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
