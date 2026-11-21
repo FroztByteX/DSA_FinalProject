@@ -34,14 +34,21 @@ The project addresses two problems: slowdowns when the amount of library data gr
 
 | Name | Role |
 |---|---|
+<<<<<<< HEAD
 | [Red Liegh Gonzales] | [Developer] |
 | [Peter Padillo] | [Project Lead, Developer] |
 | [Carenne Ryssa Wong] | [UI Developer] |
 | [Isabel Victoria Francisco] | [UI Developer] |
+=======
+| Red Liegh Gonzales | Developer |
+| Peter Padillo | Project Lead, Developer |
+| Carenne Ryssa Wong | Documentation, UI Developer |
+| Isabel Victoria Francisco | UI/ UX Developer |
+|
+>>>>>>> 776e8824c7bd43a6e2516bbcca54532cb16332dd
 
 ## Requirements
 
-- Java Development Kit (JDK) 17 or newer (developed and tested with JDK 21)
 
 ## How to Run
 
@@ -83,6 +90,13 @@ New students can also register from the login screen.
 
 On the first run the program creates a `data/` folder next to where it is started, filled with sample books and accounts. It contains `users.txt`, `books.txt`, `borrow_records.txt` and `transactions.txt`, and is updated after every change. To reset the system to the sample data, close the program and delete the `data/` folder. The undo history only lasts for the current session.
 
+<<<<<<< HEAD
+=======
+### Logo
+
+To show the CIRCA logo in the login screen and the window headers, save it as `images/logo.png` in the project folder (next to `src`) and run the program from that folder. If the file is missing, a placeholder box is shown instead.
+
+>>>>>>> 776e8824c7bd43a6e2516bbcca54532cb16332dd
 ## Project Structure
 
 ```
@@ -101,4 +115,8 @@ uml/            UML class diagram (PNG, PDF, SVG)
 ## UML Diagram
 
 The class diagram is in the `uml` folder: `class-diagram.png` (also available as `.pdf` and `.svg`).
+<<<<<<< HEAD
+=======
+
+>>>>>>> 776e8824c7bd43a6e2516bbcca54532cb16332dd
 "# DSA_FinalProject" 
