@@ -30,11 +30,6 @@ The project addresses two problems: slowdowns when the amount of library data gr
 | Merge sort | Sorting books, records and transactions |
 | Binary search tree | Books ordered by title |
 
-<<<<<<< HEAD
-All of these are implemented from scratch in the `circa.structures` package.
-
-=======
->>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 ## Team Members
 
 | Name | Role |
