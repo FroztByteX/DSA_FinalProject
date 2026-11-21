@@ -37,7 +37,7 @@ The project addresses two problems: slowdowns when the amount of library data gr
 | [Red Liegh Gonzales] | [Developer] |
 | [Peter Padillo] | [Project Lead, Developer] |
 | [Carenne Ryssa Wong] | [UI Developer] |
-| [Isabel Francisco] | [UI Developer] |
+| [Isabel Victoria Francisco] | [UI Developer] |
 
 ## Requirements
 
