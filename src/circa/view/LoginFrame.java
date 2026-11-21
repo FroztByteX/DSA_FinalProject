@@ -36,7 +36,11 @@ public class LoginFrame extends JFrame {
 
         JPanel top = new JPanel();
         top.setLayout(new BoxLayout(top, BoxLayout.Y_AXIS));
+<<<<<<< HEAD
         JLabel logo = Widgets.logo(120, 120);
+=======
+        JLabel logo = Widgets.imagePlaceholder(100, 100);
+>>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
         logo.setAlignmentX(CENTER_ALIGNMENT);
         JLabel title = new JLabel("CIRCA: LIBRARY RESERVATION", SwingConstants.CENTER);
         title.setAlignmentX(CENTER_ALIGNMENT);
@@ -99,4 +103,8 @@ public class LoginFrame extends JFrame {
             passwordField.setText("");
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca

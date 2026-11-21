@@ -18,7 +18,11 @@ public abstract class BaseFrame extends JFrame {
         setLocationRelativeTo(null);
 
         JPanel header = new JPanel(new BorderLayout(10, 0));
+<<<<<<< HEAD
         header.add(Widgets.logo(56, 56), BorderLayout.WEST);
+=======
+        header.add(Widgets.imagePlaceholder(48, 48), BorderLayout.WEST);
+>>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
         header.add(new JLabel(systemTitle), BorderLayout.CENTER);
         header.add(new JLabel("Hello, " + user.getName()), BorderLayout.EAST);
         northPanel.add(header, BorderLayout.NORTH);
@@ -33,4 +37,8 @@ public abstract class BaseFrame extends JFrame {
         dispose();
         onLogout.run();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
