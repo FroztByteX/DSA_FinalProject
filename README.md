@@ -47,13 +47,12 @@ All of these are implemented from scratch in the `circa.structures` package.
 =======
 | [Red Liegh Gonzales] | [Developer] |
 | [Peter Padillo] | [Project Lead, Developer] |
-| [Carenne Ryssa Wong] | [UI Developer] |
-| [Isabel Victoria Francisco] | [UI Developer] |
+| [Carenne Ryssa Wong] | [Documentation, UI Developer] |
+| [Isabel Victoria Francisco] | [Documentation, UI Developer] |
 >>>>>>> 1a93c7cd73cd4ada2f0ab6542ebd5310c69289ca
 
 ## Requirements
 
-- Java Development Kit (JDK) 17 or newer (developed and tested with JDK 21)
 
 ## How to Run
 
