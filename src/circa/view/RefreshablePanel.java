@@ -1,0 +1,7 @@
+package circa.view;
+
+import javax.swing.JPanel;
+
+public abstract class RefreshablePanel extends JPanel {
+    public abstract void refresh();
+}
