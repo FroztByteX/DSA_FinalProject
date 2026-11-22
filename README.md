@@ -34,18 +34,10 @@ The project addresses two problems: slowdowns when the amount of library data gr
 
 | Name | Role |
 |---|---|
-<<<<<<< HEAD
-| [Red Liegh Gonzales] | [Developer] |
-| [Peter Padillo] | [Project Lead, Developer] |
-| [Carenne Ryssa Wong] | [UI Developer] |
-| [Isabel Victoria Francisco] | [UI Developer] |
-=======
+| John Peter Padillo | Project Lead, Developer |
 | Red Liegh Gonzales | Developer |
-| Peter Padillo | Project Lead, Developer |
 | Carenne Ryssa Wong | Documentation, UI Developer |
-| Isabel Victoria Francisco | UI/ UX Developer |
-|
->>>>>>> 776e8824c7bd43a6e2516bbcca54532cb16332dd
+| Isabel Victoria Francisco | UI/UX Developer |
 
 ## Requirements
 
